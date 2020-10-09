@@ -18,7 +18,7 @@ const App = () => {
 				<Route exact path="/walle" component={HomePage}></Route>
 				<Route
 					exact
-					path="/walle-master-project"
+					path="/walle-master-project.vercel.app/"
 					component={LandingPage}
 				></Route>
 				<Route exact path="/usuario" component={UserPage}></Route>
